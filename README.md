@@ -19,8 +19,8 @@ con una mezcla de destreza tecnica y habilidades de trabajo practico que demuest
 mi capacidad de adaptacion y trabajo en equipo.
 
 🎓 Formación:
-Diploma Superior en Desarrollo de Aplicaciones Multiplataforma
-Institut Poblenou ECAIB, Barcelona (2020-2024)
+Grado Superior en Desarrollo de Aplicaciones Multiplataforma
+Institut Poblenou ECAIB, Barcelona (2020-2025)
 
 🌐 Idiomas:
 - Español (Nativo)
