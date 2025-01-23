@@ -1,8 +1,8 @@
 Desarrollador Junior Apasionado y Entusiasta de la Tecnología 🚀.
 
 Soy un profesional dedicado con una sólida formación en Desarrollo de Aplicaciones Multiplataforma,
-en constante búsqueda de ampliar mis habilidades técnicas y aceptar nuevos retos. 
-Mi viaje en la tecnología está impulsado por la curiosidad, la innovación y un incesante deseo de aprender.
+con un gran interes en el desarrollo de microservicios y tecnologias enfocados al backend
+siempre estoy constante búsqueda de ampliar mis habilidades técnicas y aceptar nuevos retos.
 
 🖥️ Conocimientos técnicos:
 - Lenguajes de programación: Java, Python, C++, C#
@@ -13,10 +13,10 @@ Mi viaje en la tecnología está impulsado por la curiosidad, la innovación y u
 - Gestión de bases de datos: MySQL, SQL, Oracle
 
 🌍 Versatilidad profesional:
-Con experiencia que va desde el desarrollo de software a la instrucción educativa, 
-traigo una mezcla única de destreza técnica y habilidades de trabajo práctico. 
-Mi experiencia incluye la instrucción de programación y el trabajo industrial,
-lo que demuestra la capacidad de adaptación y una fuerte ética de trabajo.
+Con experiencia en la instruccion educativa de lenguajes de programacion, estructura
+de datos y desarrollo web. Ademas de mi solida base en lenguajes como JAVA, cuento 
+con una mezcla de destreza tecnica y habilidades de trabajo practico que demuestran 
+mi capacidad de adaptacion y trabajo en equipo.
 
 🎓 Formación:
 Diploma Superior en Desarrollo de Aplicaciones Multiplataforma
@@ -29,10 +29,10 @@ Institut Poblenou ECAIB, Barcelona (2020-2024)
 - Catalán (Intermedio)
 
 💡 Puntos fuertes:
-- Aprende rápido
-- Resuelve problemas
+- Rapido aprendizaje
+- Resolucion de problemas
 - Trabajo en equipo
-- Orientación al detalle
-- Enfoque proactivo ante los retos
+- Buena comunicacion
+- Proactivo
 
-Siempre abierto a la colaboración y a nuevas oportunidades. Creemos algo increíble juntos. 💻✨
+Siempre abierto a la colaboración y a nuevas oportunidades. 💻✨
