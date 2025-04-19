@@ -9,8 +9,6 @@ siempre estoy constante búsqueda de ampliar mis habilidades técnicas y aceptar
 #### Lenguajes de programación:
 - Java
 - Python
-- C++
-- C#
 
 #### Desarrollo backend:
 - Spring Boot
@@ -35,7 +33,6 @@ siempre estoy constante búsqueda de ampliar mis habilidades técnicas y aceptar
 - Oracle
 - MongoDB
 - PostgreSQL
-- PL/SQL
 
 ### 🌍 Versatilidad profesional:
 Con experiencia en la instruccion educativa de lenguajes de programacion, estructura
