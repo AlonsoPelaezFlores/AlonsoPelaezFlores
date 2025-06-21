@@ -20,7 +20,7 @@ siempre estoy constante búsqueda de ampliar mis habilidades técnicas y aceptar
 - Aplicaciones Android
 
 #### Desarrollo de juegos:
-- Unity
+- Unity (C#)
 
 #### DevOps:
 - Git
@@ -34,14 +34,15 @@ siempre estoy constante búsqueda de ampliar mis habilidades técnicas y aceptar
 - MongoDB
 - PostgreSQL
 
-### 🌍 Versatilidad profesional:
-Con experiencia en la instruccion educativa de lenguajes de programacion, estructura
-de datos y desarrollo web. Ademas de mi solida base en lenguajes como JAVA cuento 
-con una mezcla de destreza tecnica y habilidades de trabajo practico que demuestran 
-mi capacidad de adaptacion y trabajo en equipo.
+### 🌍 Experiencia Laboral:
+Desarrollador Backend con experiencia en el sector educativo utilizanod Java.
+Colaboré en el desarrollo de Apis, implementando nuevas funcionalidades. Tambien
+teniendo aportes en el sistema de autenticación de la plataforma educativa.
+Enfocado en escribir codigo limpio y trabajar eficazmente en equipo para entregar
+soluciones tecnológicas  de calidad.
 
 ### 🎓 Formación:
-Grado Superior en Desarrollo de Aplicaciones Multiplataforma
+Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)
 Institut Poblenou ECAIB, Barcelona (2020-2025)
 
 ### 🌐 Idiomas:
