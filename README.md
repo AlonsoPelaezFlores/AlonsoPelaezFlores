@@ -1,8 +1,6 @@
 ## Junior Backend Developer 🚀
 
-Desarrollador backend con 8 meses de experiencia desarrollando microservicios con Java y Spring Boot. Apasionado por escribir código limpio, bien testeado y crear APIs robustas que resuelvan problemas reales.
-
-🎯 Actualmente: Buscando incorporarme a un equipo donde pueda seguir creciendo como desarrollador backend y aportar valor desde el primer día.
+Desarrollador backend con enfoque en Java y Spring Boot. Construyo APIs REST, trabajo con PostgreSQL y Docker, y documento mi aprendizaje a través de proyectos propios.
 
 ## 🛠️ Stack Tecnologico
 ### Backend
@@ -28,9 +26,9 @@ Desarrollador backend con 8 meses de experiencia desarrollando microservicios co
 Sistema completo de gestión de librería con API REST
 
 - Stack: Java 17, Spring Boot, PostgreSQL, JPA/Hibernate
-- Features: 15+ endpoints, arquitectura en capas, validaciones personalizadas
+- Features: 25+ endpoints, arquitectura en capas, validaciones personalizadas
 - Testing: JUnit & Mockito con cobertura del 75%+
-- Arquitectura: Controller-Service-Repository con principios SOLID
+- Arquitectura: MVC con principios SOLID
 
 ### ⚙️ [Spring Boot Exercises](https://github.com/AlonsoPelaezFlores/SpringBootExercises)
 Repositorio de ejercicios prácticos con Spring Boot
@@ -50,7 +48,6 @@ Actualmente aprendiendo:
 ## Certificaciones:
 
 - 🎓 Elements of AI - Universidad de Helsinki (2025)
-- ☕ Oracle Java Foundations (En curso)
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=AlonsoPelaezFlores&show_icons=true&theme=dark&hide=contribs)  
